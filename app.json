@@ -1,0 +1,23 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/card/card",
+    "pages/logs/logs",
+    "pages/addContact/addContact",
+<<<<<<< HEAD
+    "pages/selectPhoto/selectPhoto"
+=======
+    "pages/selectPhoto/selectPhoto",
+    "pages/associationslist/associationslist",
+    "pages/selectassociations/selectassociations"
+>>>>>>> 9e70309 (second commit)
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
